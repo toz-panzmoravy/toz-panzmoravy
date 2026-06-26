@@ -33,115 +33,48 @@ What ties it together: **modular architecture**, **auditable decision logic**, a
 
 ## Impact at a glance
 
-<table align="center">
-  <tr>
-    <td align="center" width="160">
-      <img src="https://img.icons8.com/fluency/48/trading.png" alt="TV" width="36"/><br/>
-      <strong>900+</strong><br/>
-      <sub>TradingView chart uses</sub>
-    </td>
-    <td align="center" width="160">
-      <img src="https://img.icons8.com/fluency/48/table.png" alt="TLE" width="36"/><br/>
-      <strong>731</strong><br/>
-      <sub>Table Logic Extractor users</sub>
-    </td>
-    <td align="center" width="160">
-      <img src="https://img.icons8.com/fluency/48/bot.png" alt="AOS" width="36"/><br/>
-      <strong>7+</strong><br/>
-      <sub>AOS / algo systems</sub>
-    </td>
-    <td align="center" width="160">
-      <img src="https://img.icons8.com/fluency/48/github.png" alt="Stars" width="36"/><br/>
-      <strong>16 ★</strong><br/>
-      <sub>Fibonacci Pro</sub>
-    </td>
-    <td align="center" width="160">
-      <img src="https://img.icons8.com/fluency/48/web-design.png" alt="Apps" width="36"/><br/>
-      <strong>3</strong><br/>
-      <sub>Full-stack products</sub>
-    </td>
-    <td align="center" width="160">
-      <img src="https://img.icons8.com/fluency/48/workflow.png" alt="n8n" width="36"/><br/>
-      <strong>2</strong><br/>
-      <sub>Public n8n templates</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## What I bring
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 Product & Delivery
-- Full product lifecycle — discovery → backlog → release
-- ICE / RICE prioritization, success metrics, ROI-driven decisions
-- Cross-functional teams (15+ people), incident management
-- Obsidian Product Brain + **Product0r** → Jira export
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Engineering & AI
-- Full-stack: **Next.js 16 · React 19 · FastAPI · Supabase**
-- Applied AI: Ollama, LM Studio, Gemini — OCR, grading, gates
-- n8n orchestration: Jira REST, Slack, Google Sheets
-- Trading stack: Pine Script v6, MT5, vectorbt, aiomql
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 Quant & Algo Trading
-- Weighted scoring, MTF, divergence, asset-class specialization
-- 7+ AOS systems: multi-strategy, AI gate, SAFE_MODE, backtest
-- Risk management: circuit breakers, Kelly sizing, audit trail
-- MIT open-source indicators with 900+ community uses
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Risk & Reliability
-- Fail-safe logic and defined fallback scenarios
-- Explainable decisions (grading A–F, confidence scores)
-- Structured data from messy input (OCR tickets, email → PRD)
-- Docker, structured logging, human-in-the-loop review
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/TradingView-900%2B_chart_uses-F59E0B?style=for-the-badge&logo=tradingview&logoColor=white" alt="900+ TradingView chart uses"/>
+  <img src="https://img.shields.io/badge/Table_Logic_Extractor-731_users-10B981?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="731 Table Logic Extractor users"/>
+  <img src="https://img.shields.io/badge/AOS_systems-7%2B-6366F1?style=for-the-badge&logo=python&logoColor=white" alt="7+ AOS systems"/>
+  <img src="https://img.shields.io/badge/Fibonacci_Pro-16_stars-181717?style=for-the-badge&logo=github&logoColor=white" alt="16 stars Fibonacci Pro"/>
+  <img src="https://img.shields.io/badge/Full--stack_products-3-06B6D4?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="3 full-stack products"/>
+  <img src="https://img.shields.io/badge/n8n_templates-2-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="2 public n8n templates"/>
+</p>
 
 ---
 
 ## Featured work
 
-### 🏆 Flagship projects
+#### [`Bet_Tracker`](https://github.com/panzmoravylab/Bet_Tracker) · flagship · public
+Sports betting tracker — AI OCR ticket import, ROI analytics, Chrome extension  
+`Next.js 16` `FastAPI` `PostgreSQL` `Ollama`
 
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [**Bet_Tracker**](https://github.com/panzmoravylab/Bet_Tracker) | Sports betting tracker — AI OCR ticket import, ROI analytics, Chrome extension | Next.js 16 · FastAPI · PostgreSQL · Ollama |
-| [**Table Logic Extractor**](https://www.tradingview.com/script/f0wHmYE5-Table-Logic-Extractor/) | #1 indicator — 14 metrics, MTF, confidence, SL/TP | Pine Script v6 · MIT · **731 uses** |
-| [**Product0r**](https://github.com/panzmoravylab/Product0r) | User Story Mapping → LM Studio → Jira Wiki Markup + PDF | Python · LM Studio · Jira |
-| [**Fibonacci Pro**](https://github.com/panzmoravylab/Fibonacci_Pro) | Open-source Fibonacci indicator for TradingView | Pine Script · MIT · **16 ★** |
+#### [`Table Logic Extractor`](https://www.tradingview.com/script/f0wHmYE5-Table-Logic-Extractor/) · **731 uses**
+14 metrics in one table — MTF, confidence score, SL/TP  
+`Pine Script v6` `MIT` `TradingView`
+
+#### [`Product0r`](https://github.com/panzmoravylab/Product0r)
+User Story Mapping → LM Studio → Jira Wiki Markup + PDF export  
+`Python` `LM Studio` `Jira`
+
+#### [`Fibonacci Pro`](https://github.com/panzmoravylab/Fibonacci_Pro) · **16 ★**
+Open-source Fibonacci indicator for TradingView  
+`Pine Script` `MIT`
 
 <br/>
 
-<details open>
-<summary><strong>📦 More projects</strong></summary>
-<br/>
+**Trading / Algo**  
+[Complexity v3.2](https://www.tradingview.com/script/t3FSg7Ph-Complexity-v3-2/) · [EURUSD_PRO](https://github.com/panzmoravylab/EURUSD_PRO) · [XAUUSD_PRO](https://github.com/panzmoravylab/TradingView_XAUUSD_PRO) · ZEUSOID · Arachne-Aos · MultiModul AI · MX-z · [MT5_Indicators26](https://github.com/panzmoravylab/MT5_Indicators26)
 
-| Category | Projects |
-|:---------|:---------|
-| **Trading / Algo** | [Complexity v3.2](https://www.tradingview.com/script/t3FSg7Ph-Complexity-v3-2/) · [EURUSD_PRO](https://github.com/panzmoravylab/EURUSD_PRO) · [XAUUSD_PRO](https://github.com/panzmoravylab/TradingView_XAUUSD_PRO) · ZEUSOID · Arachne-Aos · MultiModul AI · MX-z · [MT5_Indicators26](https://github.com/panzmoravylab/MT5_Indicators26) |
-| **Full-stack Apps** | Bet_Tracker · AlphaRadar (StockRadar) · [HealthLOG](https://healthlogger.vercel.app/) · [Sport-Scout](https://github.com/panzmoravylab/Sport-Scout) |
-| **Automation** | [Jira → Slack Digest](https://github.com/panzmoravylab/PlannedBugs-Slack-message-n8n) · [Jira → Google Sheets](https://github.com/panzmoravylab/JIRA-Automatic-Report) |
-| **Data Pipeline** | [MT5_DataDownloader](https://github.com/panzmoravylab/MT5_DataDownloader) |
+**Full-stack Apps**  
+Bet_Tracker · AlphaRadar · [HealthLOG](https://healthlogger.vercel.app/) · [Sport-Scout](https://github.com/panzmoravylab/Sport-Scout)
 
-</details>
+**Automation**  
+[Jira → Slack Digest](https://github.com/panzmoravylab/PlannedBugs-Slack-message-n8n) · [Jira → Google Sheets](https://github.com/panzmoravylab/JIRA-Automatic-Report)
+
+**Data Pipeline**  
+[MT5_DataDownloader](https://github.com/panzmoravylab/MT5_DataDownloader)
 
 ---
 
@@ -183,14 +116,6 @@ I don't start with code. I map systems into a connected knowledge vault, then ru
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
 </p>
-
-<table>
-<tr>
-<td width="33%" valign="top"><b>Frontend</b><br/>Next.js · React 19 · Tailwind 4 · Recharts · TypeScript</td>
-<td width="33%" valign="top"><b>Backend & Data</b><br/>FastAPI · Alembic · PostgreSQL · SQLite · Supabase · Finnhub · FRED</td>
-<td width="33%" valign="top"><b>AI & Automation</b><br/>Ollama · LM Studio · Gemini · llama3.2-vision · Qwen2.5 · Mistral · n8n · Jira REST</td>
-</tr>
-</table>
 
 ---
 
