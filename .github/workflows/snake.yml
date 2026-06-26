@@ -9,6 +9,7 @@ on:
       - main
     paths:
       - .github/workflows/snake.yml
+      - README.md
 
 jobs:
   generate:
@@ -31,19 +32,11 @@ jobs:
 
       - name: Deploy snake SVG to output branch
         run: |
+          cd dist
+          git init
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git fetch origin output || true
-
-          if git show-ref --verify --quiet refs/remotes/origin/output; then
-            git checkout output
-            git rm -rf .
-          else
-            git checkout --orphan output
-          fi
-
-          cp -r dist/. .
           git add -A
-          git commit -m "Update contribution snake SVG" || exit 0
-          git push origin output --force
+          git commit -m "Update contribution snake SVG"
+          git branch -M output
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" output
