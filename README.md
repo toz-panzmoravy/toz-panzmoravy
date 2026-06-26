@@ -1,20 +1,18 @@
 <div align="center">
 
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:10b981,100:059669&height=200&section=header&text=Roman%20Tau%C5%A1&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Product%20Leader%20%C2%B7%20Fintech%20%26%20Trading%20%26%20AI%20Ops&descSize=16&descAlignY=62&descAlign=50" alt="Roman Tauš" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:10b981,100:059669&height=210&section=header&text=Panzmoravy%20Lab&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Roman%20Tau%C5%A1%20%C2%B7%20Product%20Leader%20%C2%B7%20Fintech%20%26%20Trading%20%26%20AI%20Ops&descSize=15&descAlignY=58&descAlign=50" alt="Panzmoravy Lab" width="100%"/>
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-panzmoravy.cz-10b981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.panzmoravy.cz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-romantaus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romantaus/)
 [![TradingView](https://img.shields.io/badge/TradingView-panzmoravy-F59E0B?style=for-the-badge&logo=tradingview&logoColor=white)](https://www.tradingview.com/u/panzmoravy/)
-[![Email](https://img.shields.io/badge/Open%20to%20collaboration-Let's%20talk-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/romantaus/)
+[![Open to collaborate](https://img.shields.io/badge/Open%20to%20collaborate-Let's%20talk-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/romantaus/)
 
 <br/><br/>
 
-<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=780&lines=Product+Leader+%E2%80%94+Business+Vision+%E2%86%94+Technical+Execution;End-to-end+systems+for+Fintech%2C+Betting+%26+Algo+Trading;AI-assisted+delivery+%C2%B7+n8n+%C2%B7+Local+LLMs+%C2%B7+Full-stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=780&lines=Product+Leader+%E2%80%94+Vision+%E2%86%94+Execution;End-to-end+systems+for+Fintech%2C+Betting+%26+Algo+Trading;AI-assisted+delivery+%C2%B7+n8n+%C2%B7+Local+LLMs+%C2%B7+Full-stack" alt="Typing SVG" />
 </a>
 
 </div>
@@ -23,11 +21,13 @@
 
 ## About
 
-**Produktový lídr**, který spojuje byznysovou vizi s technickou exekucí — od strategie a roadmapy (PM / Head of Product) přes prioritizaci backlogu (PO) až po **hands-on delivery** v produkčním kódu.
+**Panzmoravy Lab** is where I ship experiments and production-grade tools at the intersection of **product leadership**, **fintech**, and **applied AI**.
 
-Stavím **end-to-end systémy** pro fintech, betting a trading: open-source indikátory na TradingView, automatizované obchodní boty s lokální AI, betting analytiku s OCR importem, n8n integrace (Jira → Slack / Sheets) a full-stack webové aplikace. Spojuje mě **modulární architektura**, **auditovatelná rozhodovací logika** a **praktická AI** (gate, scoring, human-in-the-loop).
+I'm a product leader who bridges business vision and technical execution — from strategy and roadmap (PM / Head of Product) to backlog prioritization and hands-on delivery (PO). I build **end-to-end systems** for fintech, betting, and trading: open-source TradingView indicators, algo trading bots with local LLMs, betting analytics with OCR import, n8n integrations (Jira → Slack / Sheets), and full-stack web apps.
 
-> *Product Leader · Product Manager · Fintech & Trading · Workflow Automation · Full-stack Dev · AI Operations*
+What ties it together: **modular architecture**, **auditable decision logic**, and **practical AI** — gates, scoring, and human-in-the-loop review.
+
+> *Product Leader · Fintech & Trading · Workflow Automation · Full-stack · AI Operations*
 
 ---
 
@@ -77,9 +77,9 @@ Stavím **end-to-end systémy** pro fintech, betting a trading: open-source indi
 <td width="50%" valign="top">
 
 ### 🎯 Product & Delivery
-- Celý produktový lifecycle — discovery → backlog → release
-- ICE / RICE prioritizace, metriky úspěchu, ROI-driven rozhodování
-- Cross-functional týmy (15+ lidí), incident management
+- Full product lifecycle — discovery → backlog → release
+- ICE / RICE prioritization, success metrics, ROI-driven decisions
+- Cross-functional teams (15+ people), incident management
 - Obsidian Product Brain + **Product0r** → Jira export
 
 </td>
@@ -87,8 +87,8 @@ Stavím **end-to-end systémy** pro fintech, betting a trading: open-source indi
 
 ### ⚡ Engineering & AI
 - Full-stack: **Next.js 16 · React 19 · FastAPI · Supabase**
-- Praktická AI: Ollama, LM Studio, Gemini — OCR, grading, gates
-- n8n orchestrace: Jira REST, Slack, Google Sheets
+- Applied AI: Ollama, LM Studio, Gemini — OCR, grading, gates
+- n8n orchestration: Jira REST, Slack, Google Sheets
 - Trading stack: Pine Script v6, MT5, vectorbt, aiomql
 
 </td>
@@ -97,18 +97,18 @@ Stavím **end-to-end systémy** pro fintech, betting a trading: open-source indi
 <td width="50%" valign="top">
 
 ### 📈 Quant & Algo Trading
-- Vážené skóre, MTF, divergence, asset-class specializace
-- 7+ AOS systémů: multi-strategy, AI gate, SAFE_MODE, backtest
+- Weighted scoring, MTF, divergence, asset-class specialization
+- 7+ AOS systems: multi-strategy, AI gate, SAFE_MODE, backtest
 - Risk management: circuit breakers, Kelly sizing, audit trail
-- MIT open-source indikátory s 900+ community uses
+- MIT open-source indicators with 900+ community uses
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛡️ Risk & Reliability
-- Fail-safe logika a definované fallback scénáře
-- Explainable rozhodnutí (grading A–F, confidence scores)
-- Strukturovaná data z chaotického vstupu (OCR tiketů, email → PRD)
+- Fail-safe logic and defined fallback scenarios
+- Explainable decisions (grading A–F, confidence scores)
+- Structured data from messy input (OCR tickets, email → PRD)
 - Docker, structured logging, human-in-the-loop review
 
 </td>
@@ -123,10 +123,10 @@ Stavím **end-to-end systémy** pro fintech, betting a trading: open-source indi
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [**Bet_Tracker**](https://github.com/toz-panzmoravy/Bet_Tracker) | Sports betting tracker — AI OCR import tiketů, ROI analytika, Chrome extension | Next.js 16 · FastAPI · PostgreSQL · Ollama |
-| [**Table Logic Extractor**](https://www.tradingview.com/script/f0wHmYE5-Table-Logic-Extractor/) | #1 indikátor — 14 metrik, MTF, confidence, SL/TP | Pine Script v6 · MIT · **731 uses** |
-| [**Product0r**](https://github.com/toz-panzmoravy/Product0r) | User Story Mapping → LM Studio → Jira Wiki Markup + PDF export | Python · LM Studio · Jira |
-| [**Fibonacci Pro**](https://github.com/toz-panzmoravy/Fibonacci_Pro) | Open-source Fibonacci indikátor pro TradingView | Pine Script · MIT · **16 ★** |
+| [**Bet_Tracker**](https://github.com/panzmoravylab/Bet_Tracker) | Sports betting tracker — AI OCR ticket import, ROI analytics, Chrome extension | Next.js 16 · FastAPI · PostgreSQL · Ollama |
+| [**Table Logic Extractor**](https://www.tradingview.com/script/f0wHmYE5-Table-Logic-Extractor/) | #1 indicator — 14 metrics, MTF, confidence, SL/TP | Pine Script v6 · MIT · **731 uses** |
+| [**Product0r**](https://github.com/panzmoravylab/Product0r) | User Story Mapping → LM Studio → Jira Wiki Markup + PDF | Python · LM Studio · Jira |
+| [**Fibonacci Pro**](https://github.com/panzmoravylab/Fibonacci_Pro) | Open-source Fibonacci indicator for TradingView | Pine Script · MIT · **16 ★** |
 
 <br/>
 
@@ -136,10 +136,10 @@ Stavím **end-to-end systémy** pro fintech, betting a trading: open-source indi
 
 | Category | Projects |
 |:---------|:---------|
-| **Trading / Algo** | [Complexity v3.2](https://www.tradingview.com/script/t3FSg7Ph-Complexity-v3-2/) · [EURUSD_PRO](https://github.com/toz-panzmoravy/EURUSD_PRO) · [XAUUSD_PRO](https://github.com/toz-panzmoravy/TradingView_XAUUSD_PRO) · ZEUSOID · Arachne-Aos · MultiModul AI · MX-z · [MT5_Indicators26](https://github.com/toz-panzmoravy/MT5_Indicators26) |
-| **Full-stack Apps** | Bet_Tracker · AlphaRadar (StockRadar) · [HealthLOG](https://healthlogger.vercel.app/) |
-| **Automation** | [Jira → Slack Digest](https://github.com/toz-panzmoravy/PlannedBugs-Slack-message-n8n) · [Jira → Google Sheets](https://github.com/toz-panzmoravy/JIRA-Automatic-Report) |
-| **Data Pipeline** | [MT5_DataDownloader](https://github.com/toz-panzmoravy/MT5_DataDownloader) |
+| **Trading / Algo** | [Complexity v3.2](https://www.tradingview.com/script/t3FSg7Ph-Complexity-v3-2/) · [EURUSD_PRO](https://github.com/panzmoravylab/EURUSD_PRO) · [XAUUSD_PRO](https://github.com/panzmoravylab/TradingView_XAUUSD_PRO) · ZEUSOID · Arachne-Aos · MultiModul AI · MX-z · [MT5_Indicators26](https://github.com/panzmoravylab/MT5_Indicators26) |
+| **Full-stack Apps** | Bet_Tracker · AlphaRadar (StockRadar) · [HealthLOG](https://healthlogger.vercel.app/) · [Sport-Scout](https://github.com/panzmoravylab/Sport-Scout) |
+| **Automation** | [Jira → Slack Digest](https://github.com/panzmoravylab/PlannedBugs-Slack-message-n8n) · [Jira → Google Sheets](https://github.com/panzmoravylab/JIRA-Automatic-Report) |
+| **Data Pipeline** | [MT5_DataDownloader](https://github.com/panzmoravylab/MT5_DataDownloader) |
 
 </details>
 
@@ -159,9 +159,9 @@ flowchart LR
     G --> H["📋 Jira Export"]
 ```
 
-**Loop:** Surový vstup → Ingest & Context → Feature Factory (L1–L3) → Product0r → Jira stories
+**Loop:** Raw input → Ingest & context → Feature Factory (L1–L3) → Product0r → Jira stories
 
-Nezačínám u kódu. Mapuji systémy do propojeného znalostního vaultu, nad ním běží verzované AI prompty — z chaotického zadání vznikne PRD, Mermaid diagramy a přesně nasekané user stories.
+I don't start with code. I map systems into a connected knowledge vault, then run versioned AI prompts on top — turning messy input into PRDs, Mermaid diagrams, and precisely sliced user stories.
 
 ---
 
@@ -198,21 +198,20 @@ Nezačínám u kódu. Mapuji systémy do propojeného znalostního vaultu, nad n
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=toz-panzmoravy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9&rank_icon=percentile" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=panzmoravylab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9&rank_icon=percentile" alt="GitHub Stats" height="165"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=toz-panzmoravy&theme=tokyonight&hide_border=true&background=0d1117&ring=10b981&fire=10b981&currStreakLabel=10b981" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=panzmoravylab&theme=tokyonight&hide_border=true&background=0d1117&ring=10b981&fire=10b981&currStreakLabel=10b981" alt="GitHub Streak" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=toz-panzmoravy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=10b981&line=059669&point=f59e0b" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=panzmoravylab&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=10b981&line=059669&point=f59e0b" alt="Contribution Graph" width="100%"/>
 
 <br/><br/>
 
-<!-- Generováno workflow .github/workflows/snake.yml → větev output -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toz-panzmoravy/toz-panzmoravy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toz-panzmoravy/toz-panzmoravy/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/toz-panzmoravy/toz-panzmoravy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/panzmoravylab/panzmoravylab/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/panzmoravylab/panzmoravylab/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/panzmoravylab/panzmoravylab/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
@@ -224,7 +223,7 @@ Nezačínám u kódu. Mapuji systémy do propojeného znalostního vaultu, nad n
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_panzmoravy.cz-10b981?style=for-the-badge)](https://www.panzmoravy.cz)
-[![GitHub](https://img.shields.io/badge/GitHub-toz--panzmoravy-181717?style=for-the-badge&logo=github)](https://github.com/toz-panzmoravy)
+[![GitHub](https://img.shields.io/badge/GitHub-panzmoravylab-181717?style=for-the-badge&logo=github)](https://github.com/panzmoravylab)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romantaus/)
 [![TradingView](https://img.shields.io/badge/TradingView-Indicators-F59E0B?style=for-the-badge&logo=tradingview&logoColor=white)](https://www.tradingview.com/u/panzmoravy/)
 
@@ -232,7 +231,7 @@ Nezačínám u kódu. Mapuji systémy do propojeného znalostního vaultu, nad n
 
 🟢 **Open to collaboration and opportunities**
 
-*Rád ukážu live demo Bet_Tracker (OCR + dashboard), walkthrough n8n workflow, TradingView indikátory nebo algo logy.*
+*Happy to demo Bet_Tracker live (OCR + dashboard), walk through n8n workflows, TradingView indicators, or algo system logs.*
 
 </div>
 
