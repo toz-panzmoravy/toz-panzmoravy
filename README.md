@@ -56,8 +56,8 @@ What ties it together: **modular architecture**, **auditable decision logic**, a
 </p>
 
 <p align="center">
-  <a href="https://github.com/panzmoravylab/Product0r">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=panzmoravylab&repo=Product0r&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9&border_color=30363d" alt="Product0r"/>
+  <a href="https://github.com/panzmoravylab/Complexity_Indicator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=panzmoravylab&repo=Complexity_Indicator&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9&border_color=30363d" alt="Complexity Indicator"/>
   </a>
   <a href="https://github.com/panzmoravylab/Sport-Scout">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=panzmoravylab&repo=Sport-Scout&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9&border_color=30363d" alt="Sport-Scout"/>
@@ -80,7 +80,7 @@ What ties it together: **modular architecture**, **auditable decision logic**, a
 <summary><b>More projects</b></summary>
 <br/>
 
-- **Trading / Algo** — [EURUSD_PRO](https://github.com/panzmoravylab/EURUSD_PRO) · [XAUUSD_PRO](https://github.com/panzmoravylab/TradingView_XAUUSD_PRO) · [MT5_Indicators26](https://github.com/panzmoravylab/MT5_Indicators26) · ZEUSOID · Arachne-Aos · MultiModul AI · MX-z
+- **Trading / Algo** — [Complexity_Indicator](https://github.com/panzmoravylab/Complexity_Indicator) · [EURUSD_PRO](https://github.com/panzmoravylab/EURUSD_PRO) · [XAUUSD_PRO](https://github.com/panzmoravylab/TradingView_XAUUSD_PRO) · ZEUSOID · Arachne-Aos · MultiModul AI · MX-z
 - **Full-stack** — AlphaRadar · [Sport-Scout](https://github.com/panzmoravylab/Sport-Scout)
 - **Automation** — [Jira → Slack](https://github.com/panzmoravylab/PlannedBugs-Slack-message-n8n) · [Jira → Google Sheets](https://github.com/panzmoravylab/JIRA-Automatic-Report)
 - **Data** — [MT5_DataDownloader](https://github.com/panzmoravylab/MT5_DataDownloader)
