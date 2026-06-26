@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:10b981,100:059669&height=210&section=header&text=Panzmoravy%20Lab&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Roman%20Tau%C5%A1%20%C2%B7%20Product%20Leader%20%C2%B7%20Fintech%20%26%20Trading%20%26%20AI%20Ops&descSize=15&descAlignY=58&descAlign=50" alt="Panzmoravy Lab" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:10b981,100:059669&height=210&section=header&text=Panzmoravy%20Lab&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Roman%20Tau%C5%A1%20%C2%B7%20Product%20Leader%20%C2%B7%20Fintech%20%C2%B7%20Trading%20%C2%B7%20AI%20Ops&descSize=15&descAlignY=58&descAlign=50" alt="Panzmoravy Lab" width="100%"/>
 
 <br/>
 
