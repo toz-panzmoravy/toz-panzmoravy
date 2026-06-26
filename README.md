@@ -46,35 +46,157 @@ What ties it together: **modular architecture**, **auditable decision logic**, a
 
 ## Featured work
 
-#### [`Bet_Tracker`](https://github.com/panzmoravylab/Bet_Tracker) · flagship · public
-Sports betting tracker — AI OCR ticket import, ROI analytics, Chrome extension  
-`Next.js 16` `FastAPI` `PostgreSQL` `Ollama`
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 
-#### [`Table Logic Extractor`](https://www.tradingview.com/script/f0wHmYE5-Table-Logic-Extractor/) · **731 uses**
-14 metrics in one table — MTF, confidence score, SL/TP  
-`Pine Script v6` `MIT` `TradingView`
+<a href="https://github.com/panzmoravylab/Bet_Tracker">
+  <img src="assets/bet_tracker_illustration.png" alt="Bet_Tracker" width="100%" style="border-radius:12px;border:1px solid #30363d;"/>
+</a>
 
-#### [`Product0r`](https://github.com/panzmoravylab/Product0r)
-User Story Mapping → LM Studio → Jira Wiki Markup + PDF export  
-`Python` `LM Studio` `Jira`
+<br/><br/>
 
-#### [`Fibonacci Pro`](https://github.com/panzmoravylab/Fibonacci_Pro) · **16 ★**
-Open-source Fibonacci indicator for TradingView  
-`Pine Script` `MIT`
+**[`Bet_Tracker`](https://github.com/panzmoravylab/Bet_Tracker)**  
+<sub>flagship · public</sub>
 
 <br/>
 
-**Trading / Algo**  
-[Complexity v3.2](https://www.tradingview.com/script/t3FSg7Ph-Complexity-v3-2/) · [EURUSD_PRO](https://github.com/panzmoravylab/EURUSD_PRO) · [XAUUSD_PRO](https://github.com/panzmoravylab/TradingView_XAUUSD_PRO) · ZEUSOID · Arachne-Aos · MultiModul AI · MX-z · [MT5_Indicators26](https://github.com/panzmoravylab/MT5_Indicators26)
+Sports betting tracker — AI OCR ticket import, ROI analytics, Chrome extension
 
-**Full-stack Apps**  
-Bet_Tracker · AlphaRadar · [HealthLOG](https://healthlogger.vercel.app/) · [Sport-Scout](https://github.com/panzmoravylab/Sport-Scout)
+<br/>
 
-**Automation**  
-[Jira → Slack Digest](https://github.com/panzmoravylab/PlannedBugs-Slack-message-n8n) · [Jira → Google Sheets](https://github.com/panzmoravylab/JIRA-Automatic-Report)
+<img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white"/>
 
-**Data Pipeline**  
-[MT5_DataDownloader](https://github.com/panzmoravylab/MT5_DataDownloader)
+</td>
+<td width="50%" valign="top" align="center">
+
+<a href="https://www.tradingview.com/script/f0wHmYE5-Table-Logic-Extractor/">
+  <img src="assets/tablelogicextractor.png" alt="Table Logic Extractor" width="100%" style="border-radius:12px;border:1px solid #30363d;"/>
+</a>
+
+<br/><br/>
+
+**[`Table Logic Extractor`](https://www.tradingview.com/script/f0wHmYE5-Table-Logic-Extractor/)**  
+<sub>731 uses · #1 script</sub>
+
+<br/>
+
+14 metrics in one table — MTF, confidence score, SL/TP
+
+<br/>
+
+<img src="https://img.shields.io/badge/Pine_Script_v6-F59E0B?style=flat-square&logo=tradingview&logoColor=white"/>
+<img src="https://img.shields.io/badge/MIT-yellow?style=flat-square"/>
+<img src="https://img.shields.io/badge/TradingView-F59E0B?style=flat-square&logo=tradingview&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/panzmoravylab/Fibonacci_Pro">
+  <img src="assets/fibonaccipro.png" alt="Fibonacci Pro" width="100%" style="border-radius:12px;border:1px solid #30363d;"/>
+</a>
+
+<br/><br/>
+
+**[`Fibonacci Pro`](https://github.com/panzmoravylab/Fibonacci_Pro)**  
+<sub>16 ★ · open-source</sub>
+
+<br/>
+
+Auto Fibonacci retracement with signals for TradingView
+
+<br/>
+
+<img src="https://img.shields.io/badge/Pine_Script-F59E0B?style=flat-square&logo=tradingview&logoColor=white"/>
+<img src="https://img.shields.io/badge/MIT-yellow?style=flat-square"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/panzmoravylab/Product0r">
+  <img src="assets/obsidian_graph.png" alt="Product0r" width="100%" style="border-radius:12px;border:1px solid #30363d;"/>
+</a>
+
+<br/><br/>
+
+**[`Product0r`](https://github.com/panzmoravylab/Product0r)**  
+<sub>USM → Jira export</sub>
+
+<br/>
+
+User Story Mapping → LM Studio → Jira Wiki Markup + PDF
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LM_Studio-000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<details>
+<summary><b>More projects</b></summary>
+<br/>
+
+<p align="center">
+  <a href="https://www.tradingview.com/script/t3FSg7Ph-Complexity-v3-2/"><img src="assets/Complexity.png" width="32%" alt="Complexity v3.2" style="border-radius:8px;border:1px solid #30363d;margin:4px;"/></a>
+  <a href="https://healthlogger.vercel.app/"><img src="assets/healthlog_mockup.png" width="32%" alt="HealthLOG" style="border-radius:8px;border:1px solid #30363d;margin:4px;"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Trading_%2F_Algo-10B981?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <a href="https://www.tradingview.com/script/t3FSg7Ph-Complexity-v3-2/"><img src="https://img.shields.io/badge/Complexity_v3.2-F59E0B?style=flat-square&logo=tradingview&logoColor=white"/></a>
+  <a href="https://github.com/panzmoravylab/EURUSD_PRO"><img src="https://img.shields.io/badge/EURUSD_PRO-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/panzmoravylab/TradingView_XAUUSD_PRO"><img src="https://img.shields.io/badge/XAUUSD_PRO-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/ZEUSOID-6366F1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Arachne--Aos-6366F1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MultiModul_AI-6366F1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MX--z-6366F1?style=flat-square"/>
+  <a href="https://github.com/panzmoravylab/MT5_Indicators26"><img src="https://img.shields.io/badge/MT5_Indicators26-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--stack_Apps-06B6D4?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/panzmoravylab/Bet_Tracker"><img src="https://img.shields.io/badge/Bet_Tracker-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/AlphaRadar-06B6D4?style=flat-square"/>
+  <a href="https://healthlogger.vercel.app/"><img src="https://img.shields.io/badge/HealthLOG-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/></a>
+  <a href="https://github.com/panzmoravylab/Sport-Scout"><img src="https://img.shields.io/badge/Sport--Scout-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Automation-EA4B71?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/panzmoravylab/PlannedBugs-Slack-message-n8n"><img src="https://img.shields.io/badge/Jira_%E2%86%92_Slack-EA4B71?style=flat-square&logo=n8n&logoColor=white"/></a>
+  <a href="https://github.com/panzmoravylab/JIRA-Automatic-Report"><img src="https://img.shields.io/badge/Jira_%E2%86%92_Sheets-EA4B71?style=flat-square&logo=n8n&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Pipeline-8B5CF6?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/panzmoravylab/MT5_DataDownloader"><img src="https://img.shields.io/badge/MT5_DataDownloader-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
+
+</details>
 
 ---
 
