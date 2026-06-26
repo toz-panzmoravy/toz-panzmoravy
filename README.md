@@ -44,6 +44,32 @@ What ties it together: **modular architecture**, **auditable decision logic**, a
 
 ---
 
+## Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FTMO-Verified%20Trading%20Certificates-F59E0B?style=for-the-badge&logo=meta&logoColor=white" alt="FTMO"/>
+</p>
+
+<p align="center">
+  <a href="assets/certs/cert-3.png">
+    <img src="assets/certs/cert-3.png" width="250" alt="FTMO Challenge Phase"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="assets/certs/cert-2.png">
+    <img src="assets/certs/cert-2.png" width="250" alt="FTMO Verification Phase"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="assets/certs/cert-1.png">
+    <img src="assets/certs/cert-1.png" width="250" alt="FTMO Funded Account"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Challenge Phase</b> &nbsp;·&nbsp; <b>Verification Phase</b> &nbsp;·&nbsp; <b>Funded Account</b>
+</p>
+
+---
+
 ## Featured work
 
 <p align="center">
